@@ -1,0 +1,80 @@
+# The Big Johnson — Terms of Service & Privacy Policy
+**Last Updated:** 25 Nov 2025  
+
+---
+
+# Terms of Service
+
+## 1. Acceptance of Terms
+By adding or using **The Big Johnson** ("the Bot") on your Discord server, you agree to these Terms of Service and to Discord’s Terms of Service and Community Guidelines.
+
+## 2. Purpose of the Bot
+The Bot is designed for **automoderation**, including:
+- Detecting spam
+- Filtering banned words or phrases
+- Enforcing server rules
+- Logging moderation actions (if enabled)
+
+## 3. Prohibited Use
+You may not use the Bot to:
+- Harass or harm others  
+- Collect unauthorized personal data  
+- Circumvent Discord rules  
+- Modify, reverse engineer, or exploit the Bot  
+
+## 4. Availability
+The Bot may be updated, paused, restricted, or shut down at any time without advance notice.
+
+## 5. Disclaimer
+The Bot is provided “as is” with no guarantees of performance or uptime.  
+The developer is not responsible for damage, data loss, or moderation errors caused by the Bot.
+
+## 6. Contact
+For help or questions: **run4johnson@gmail.com**
+
+---
+
+# Privacy Policy
+
+## 1. Data Collected
+Because The Big Johnson is an **automod bot**, it may process or store:
+- **User IDs** (for moderation history or automod actions)  
+- **Server settings** (banned words, roles, channels, log settings)  
+- **Message content**, but **only temporarily** and only when needed for automod checks (e.g., for detecting violations)
+
+The Bot **does NOT** collect:
+- Emails  
+- IP addresses  
+- Direct Messages  
+- Sensitive personal data  
+
+## 2. How Data Is Used
+Data is used only for:
+- Detecting and preventing spam or rule violations  
+- Executing moderation actions (warnings, deletions, logs)  
+- Storing server automod configuration  
+
+## 3. Data Storage & Retention
+- Message content is processed **only in memory** and not stored long-term.  
+- User moderation logs (if the server enables them) may be saved.  
+- Server automod settings are stored until the server removes the Bot or resets them.
+
+## 4. Data Sharing
+The Bot does *not* sell or share user data with third parties.  
+Data may be shared only to comply with:
+- Discord API requirements  
+- Legal obligations (rare)
+
+## 5. User Rights
+Users may request:
+- Deletion of their stored moderation data  
+- Information about what data the Bot stores  
+
+Contact for requests: **run4johnson@gmail.com**
+
+## 6. Children’s Privacy
+The Bot is intended only for users who meet Discord’s minimum age requirements (13+ or regionally higher).
+
+---
+
+© 2025 The Big Johnson Bot
