@@ -1,0 +1,119 @@
+# Privacy Policy for The Big Johnson (Discord Automod Bot)
+
+_Last updated: 2025-11-25_
+
+## 1. Introduction
+The Big Johnson ("the Bot") is an automated moderation bot designed for Discord servers.  
+This privacy policy explains what data the Bot collects, how it is used, and how it is protected.
+
+By adding or using the Bot in a server, you agree to the data practices described in this policy.
+
+---
+
+## 2. Data Collected
+
+### 2.1 Server Metadata
+The Bot may store limited server information necessary for operation:
+- Server ID  
+- Channel IDs (for configuration)  
+- Role IDs (if used in moderation rules)  
+- User IDs of server administrators configuring the bot  
+
+_No usernames, nicknames, or message content is stored unless explicitly stated below._
+
+### 2.2 Message Content (Conditionally)
+The Bot reads message content **only for moderation purposes**, such as:
+- Detecting spam  
+- Detecting banned words or phrases  
+- Detecting links, attachments, or formatting that triggers rules  
+
+**Message content is not permanently stored.**  
+It is processed in real-time and discarded immediately after rule evaluation.
+
+### 2.3 Moderation Logs (Optional)
+If the server enables moderation logging, the Bot may temporarily store:
+- User ID of the moderated user  
+- Type of action taken (mute, warn, delete, timeout, ban)  
+- Reason provided by moderators  
+- Timestamp  
+
+These logs may be stored either:
+- **Locally on the server** (if using file-based logs), or  
+- **In a database** controlled by the Bot owner (if configured).
+
+### 2.4 Error & Diagnostic Data
+For security and debugging, the Bot may collect:
+- Internal error messages  
+- Timestamps  
+- Non-identifying technical information  
+
+This data never includes message content.
+
+---
+
+## 3. How Data Is Used
+Data is used only to:
+- Enforce moderation rules  
+- Provide bot functionality (warnings, timeouts, logging, etc.)  
+- Improve reliability and performance  
+- Prevent abuse or exploitation of the bot  
+
+The Bot **does not** use data for advertising, analytics, or profiling.
+
+---
+
+## 4. Data Sharing
+The Big Johnson does **not** sell, rent, or share data with third parties.  
+Data may be disclosed **only** if:
+- Required by law, or  
+- Necessary to protect the security of the bot or its users  
+
+---
+
+## 5. Data Retention
+
+### 5.1 Temporary Processing
+- Message content is **not retained** after moderation checks.
+
+### 5.2 Logs
+- Moderation logs (if enabled) are stored until manually deleted by a server administrator or the bot owner.
+- Diagnostic logs are kept for the minimum time necessary to troubleshoot issues.
+
+---
+
+## 6. Data Security
+The Bot implements reasonable protections, including:
+- Restricted database access  
+- Encryption (when supported by hosting platform)  
+- Permission-limited bot commands  
+
+However, no system is 100% secure. Use the bot at your own discretion.
+
+---
+
+## 7. User Rights
+Users may request:
+- Deletion of moderation logs involving their user ID  
+- Clarification of what data is stored about them  
+
+Requests can be made to the Bot owner.
+
+---
+
+## 8. Children’s Privacy
+The Bot does not knowingly collect data from users under 13.  
+Servers using the Bot are responsible for complying with Discord’s Terms of Service.
+
+---
+
+## 9. Changes to This Policy
+The Bot owner may update this policy at any time.  
+Changes will be reflected in the “Last Updated” date at the top.
+
+---
+
+## 10. Contact
+For questions or data requests, contact the Bot owner via:
+- Discord: *(your tag here)*  
+- Email: *(your email here, optional)*
+
